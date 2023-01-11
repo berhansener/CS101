@@ -1,4 +1,4 @@
-```cs
+
 List<int> asal = new List<int>() { };
 List<int> notAsal = new List<int>() { };
 List<int> arr = new List<int>() { };
@@ -72,4 +72,3 @@ foreach (var item in notAsal)
 Console.WriteLine();
 Console.WriteLine($"{asal.Count} adet asal sayı vardır. Bu sayıların ortalaması {asalTotal/asal.Count} değerine eşittir.");
 Console.WriteLine($"{notAsal.Count} adet asal olmayan sayı vardır. Bu sayıların ortalaması {notAsalTotal/notAsal.Count} değerine eşittir.");
-```

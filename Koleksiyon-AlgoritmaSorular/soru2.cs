@@ -1,4 +1,3 @@
-```cs
 List<double> arr = new List<double>() { };
 while (arr.Count < 20)
 {
@@ -22,4 +21,4 @@ Console.WriteLine($"En küçük 3 sayının ortalaması {minAverage} sayısına 
 Console.WriteLine($"En büyük 3 sayının ortalaması {maxAverage} sayısına eşittir.");
 Console.WriteLine($"Ortalamaların toplamı {minAverage+maxAverage} sayısına eşittir.");
 
-```
+
